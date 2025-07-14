@@ -53,7 +53,7 @@ Cada dimensión se califica de forma independiente, generando un informe final q
 - Integración con módulos de generación de documentos (OCR, firma, validación de datos).
 
 ## 🏛 Equipo y Financiación
-Fernando Broncano Morgado [fbroncano@unex.es](mailto:fbroncano@unex.es), Victoria Amores Chaparro [vicamoresc@unex.es](mailto:vicamoresc@unex.es), Óscar Mogollón Gutiérrez [oscarmg@unex.es](mailto:oscarmg@unex.es), Alberto López Trigo [albertolt@unex.es](mailto:albertolt@unex.es), José Carlos Sancho Núñez [jcsanchon@unex.es](mailto:jcsanchon@unex.es).
+> Fernando Broncano Morgado [fbroncano@unex.es](mailto:fbroncano@unex.es), Victoria Amores Chaparro [vicamoresc@unex.es](mailto:vicamoresc@unex.es), Óscar Mogollón Gutiérrez [oscarmg@unex.es](mailto:oscarmg@unex.es), Alberto López Trigo [albertolt@unex.es](mailto:albertolt@unex.es), José Carlos Sancho Núñez [jcsanchon@unex.es](mailto:jcsanchon@unex.es).
 
 Esta iniciativa se realiza en el se realiza en el marco de los fondos del Plan de Recuperación, Transformación y Resiliencia, financiados por la Unión Europea (Next Generation) - Instituto Nacional de Ciberseguridad (INCIBE) en el proyecto C108/23 “Detección de Falsificación de Documentos de Identidad mediante Técnicas de Visión por Computador e Inteligencia Artificial”.
 ![BandaLogos_INCIBE_es-100](https://github.com/user-attachments/assets/a2290f37-69d9-4caf-bee1-2b29c47bac97)
