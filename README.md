@@ -1,4 +1,4 @@
-# 📄 Detección de falsificaciones: Evaluación de rostros faciales para expedición de documentos
+# 📄 Evaluación de rostros faciales para expedición de documentos
 ## 🎯 Descripción
 Este proyecto propone un sistema automático para evaluar la calidad de imágenes faciales usadas en la generación de documentos de identidad oficiales (DNI, pasaportes, etc.). Basado en estándares internacionales y nacionales, establece un proceso de evaluación de tres etapas y seis dimensiones para asegurar la validez biométrica de las fotografías.
 
